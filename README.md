@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&layout=compact)](https://github.com/lypsisrudiansyah/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lypsisrudiansyah&theme=dark)](https://github.com/lypsisrudiansyah/github-readme-stats)
+
 <!---
 lypsisrudiansyah/lypsisrudiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
