@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-# Hi , i am Rudiansyah 👋
+# Hi, I'm Rudiansyah 👋
 
 ## GITHUB STATS 📈
 ![lypsisrudiansyah(Rudiansyah) GitHub stats](https://github-readme-stats.vercel.app/api?username=lypsisrudiansyah&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs&cache_seconds=7200&include_all_commits=true&ring_color=00E676)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lypsisrudiansyah&theme=default&ring=00E676)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lypsisrudiansyah&theme=default&ring=00E676)()]
 
 ## GITHUB TROPHIES 📈
 <p>
