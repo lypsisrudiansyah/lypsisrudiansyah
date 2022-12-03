@@ -6,7 +6,7 @@
 
 ![lypsisrudiansyah(Rudiansyah) GitHub stats](https://github-readme-stats.vercel.app/api?username=lypsisrudiansyah&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs&cache_seconds=7200&include_all_commits=true&ring_color=00E676)
 
-[![Rudiansyah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lypsisrudiansyah)](https://github.com/lypsisrudiansyah/github-readme-stats)
+[![Rudiansyah's Trophies](https://github-profile-trophy.vercel.app/?username=lypsisrudiansyah)](https://github.com/lypsisrudiansyah/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&layout=compact)](https://github.com/lypsisrudiansyah/github-readme-stats)
 
