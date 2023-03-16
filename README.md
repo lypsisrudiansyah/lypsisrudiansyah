@@ -19,7 +19,7 @@
 </p>
 
 ## PROGRAMMING LANGUAGE USED 📈
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&layout=compact" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&hide_progress=true&layout=compact" /> 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&hide_progress=true&langs_count=10&layout=compact)](https://github.com/lypsisrudiansyah/github-readme-stats) -->
 
 <!---
