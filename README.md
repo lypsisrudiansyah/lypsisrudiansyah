@@ -7,7 +7,7 @@
 # Hi, I'm Rudiansyah 👋
 
 ## GITHUB STATS 📈
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ditateum&label=Profile%20views&color=0e75b6&style=flat" alt="ditateum" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lypsisrudiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="lypsisrudiansyah" /> </p>
 
 ![lypsisrudiansyah(Rudiansyah) GitHub stats](https://github-readme-stats.vercel.app/api?username=lypsisrudiansyah&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs&cache_seconds=7200&include_all_commits=true&ring_color=00E676)
 
@@ -20,7 +20,7 @@
 
 ## PROGRAMMING LANGUAGE USED 📈
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&layout=compact" /> 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&langs_count=10&layout=compact)](https://github.com/lypsisrudiansyah/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lypsisrudiansyah&hide_progress=true&langs_count=10&layout=compact)](https://github.com/lypsisrudiansyah/github-readme-stats) -->
 
 <!---
 lypsisrudiansyah/lypsisrudiansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
