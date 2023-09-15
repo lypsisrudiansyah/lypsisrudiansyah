@@ -7,11 +7,13 @@
 # Hi, I'm Rudiansyah 👋
 
 ## About Me 👨🏻‍💻
-Experienced Software Engineer with a demonstrated history of working in the computer software industry for over 4 years. Skilled in Laravel, PHP, Flutter, Dart, Backend Development, Mobile App Development, State Management, Web Development, MySQL, Cloud Firestore, Data Caching, Javascript, Vue.js, REST APIs,Github, and Gitlab. Upper Intermediate in English. Strong engineering professional with an Associate of Computer Science degree from Pontianak State Polytechnic
+Experienced Software Engineer with a demonstrated history of working in the computer software industry for over 4 years. Skilled in Laravel, PHP, Flutter, Dart, Backend Development, Mobile App Development, State Management, Web Development, MySQL, Cloud Firestore, Data Caching, Javascript, Vue.js, REST APIs, Github, and Gitlab. Upper Intermediate in English. Strong engineering professional with an Associate of Computer Science degree from Pontianak State Polytechnic
 
 ## GITHUB STATS 📈
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lypsisrudiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="lypsisrudiansyah" /> </p>
 
+<!-- [![Check out lypsisrudiansyah's profile on stardev.io](https://stardev.io/developers/lypsisrudiansyah/badge/languages/country.svg)](https://stardev.io/developers/lypsisrudiansyah)
+ -->
 <!-- ![lypsisrudiansyah(Rudiansyah) GitHub stats](https://github-readme-stats.vercel.app/api?username=lypsisrudiansyah&show_icons=true&theme=transparent&count_private=true&hide=contribs,prs&cache_seconds=7200&rank_icon=github&include_all_commits=true&ring_color=00E676)
  -->
 ![Github Streak](https://streak-stats.demolab.com/?user=lypsisrudiansyah&theme=default&ring=00E676)
