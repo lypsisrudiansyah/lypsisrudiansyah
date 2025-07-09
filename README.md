@@ -7,7 +7,7 @@
 # Hi, I'm Rudiansyah 👋
 
 ## About Me 👨🏻‍💻
-Experienced Software Engineer with a demonstrated history of working in the computer software industry for over 4 years. Skilled in Laravel, PHP, Flutter, Dart, Backend Development, Mobile App Development, State Management, Web Development, MySQL, Cloud Firestore, Data Caching, Javascript, Vue.js, REST APIs, Github, and Gitlab. Upper Intermediate in English. Strong engineering professional with an Associate of Computer Science degree from Pontianak State Polytechnic
+Experienced Software Engineer with 6+ years of industry experience and 20+ completed projects. Expert in full-stack development using Laravel, PHP, Flutter, Vue.js, JavaScript, TypeScript, Next.js, Firebase and 63+ technology stacks. Proficient in MySQL, REST API development, and modern software engineering practices including clean architecture, automated testing, and clean code principles. Strong background in both backend and mobile app development with experience in GitHub/GitLab workflows. Associate degree in Computer Science with upper-intermediate English proficiency.
 
 ## GITHUB STATS 📈
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lypsisrudiansyah&label=Profile%20views&color=0e75b6&style=flat" alt="lypsisrudiansyah" /> </p>
